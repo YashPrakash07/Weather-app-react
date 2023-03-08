@@ -1,6 +1,9 @@
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+You can veiw the deployed app on (https://weatherappyash.netlify.app/).
 
 ## Available Scripts
 
